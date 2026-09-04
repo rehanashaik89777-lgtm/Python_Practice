@@ -1,0 +1,5 @@
+print("Hello Rehana")
+print("I am learning Python programming.")
+print("Python is Interesting and fun to learn.")
+print(10+20)
+print(5*3+20)
